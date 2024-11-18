@@ -9,4 +9,12 @@ padding: 20px;
 font-size: 32px;
 color: rgb(42,122,228);
 }
+
+section{
+    border-bottom: solid 2px rgb(42,122,228)
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display:flex;
+    justify-content: center;
+}
  
